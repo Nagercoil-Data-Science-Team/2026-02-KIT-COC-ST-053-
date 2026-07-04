@@ -1,1 +1,1 @@
-# 2026-02-KIT-COC-ST-053-
+Title: Semantic-guided image synthesis in visual communication based on generative adversarial networks
